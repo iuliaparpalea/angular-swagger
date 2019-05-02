@@ -7,3 +7,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Step 2: Configure Webpack
 
 More information: https://github.com/manfredsteyer/ngx-build-plus
+
+## Step 3: Generate models and services for BE communication from Swagger API file.
+
+Swagger Petstore: https://petstore.swagger.io/
